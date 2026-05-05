@@ -48,3 +48,9 @@ Permiten añadir datos descriptivos a una imagen, lo que facilita:
 - Organización y búsqueda en archivos grandes
 - Identificación de autoría y derechos
 - Uso en agencias de noticias, bancos de imágenes y prensa
+
+## EXIF
+Los metadatos EXIF (Exchangeable Image File Format) son información técnica oculta incrustada automáticamente en los archivos de imágenes (JPEG, TIFF) al tomar una foto, incluyendo modelo de cámara, fecha, ISO, apertura, velocidad y ubicación GPS. Sirven para organizar fotos, aprender técnicas fotográficas y por motivos de seguridad o derechos de autor.
+
+
+
