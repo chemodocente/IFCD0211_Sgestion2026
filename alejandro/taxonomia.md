@@ -13,4 +13,4 @@
 -   ## 6.  Dependientes nuevos
 -   dar de alta a los dependientes en la seguridad social
 -   ## 7. Facturas
--    las facturas de luz.
+-    las facturas de luz, facturas de agua, factura de internet.
