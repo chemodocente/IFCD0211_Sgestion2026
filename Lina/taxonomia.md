@@ -2,30 +2,30 @@
 
 ### 1. Servicios
 -  Publicidad digital
-  -  Google Ads
-  -  Social Ads
+   -  Google Ads
+   -  Social Ads
 -  Marketing de contenidos
-  -  Blog
-  -  Video marketing
+   -  Blog
+   -  Video marketing
 -  Posicionamiento web
-  - SEO On-page
-  - SEO Off-page
+   - SEO On-page
+   - SEO Off-page
 
 ### 2. Clientes
 -  Empresas
-  - PYMES
-  - Grandes empresas
+   - PYMES
+   - Grandes empresas
 - Emprendedores
   - Startups
   - Autónomos
 
 ### 3. Documentación
 - Administrativa
-  - Facturas
-  - Contratos
+   - Facturas
+   - Contratos
 -  Operativa
-  - Informes
-  - Estrategias
+   - Informes
+   - Estrategias
 -  Legal
-  -  Protección de datos
-  - Términos y condiciones
+   -  Protección de datos
+   - Términos y condiciones
