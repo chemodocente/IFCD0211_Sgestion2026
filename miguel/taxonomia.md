@@ -1,11 +1,11 @@
 # 🌿 Empresa Cannabis – Taxonomía documental
 
 ## 📁 1. Legal
-/Legal
-  /Licencias
-    licencia_cultivo.pdf
-  /Contratos
-    contrato_proveedor.pdf
+- Legal
+-- Licencias
+--- licencia_cultivo.pdf
+-- Contratos
+--- contrato_proveedor.pdf
 
 ## 📁 2. Producción
 /Produccion
