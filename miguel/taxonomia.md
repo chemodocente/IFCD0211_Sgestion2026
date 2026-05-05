@@ -5,7 +5,7 @@
   - Licencias
     - licencia_cultivo.pdf
   - Contratos
-    -contrato_proveedor.pdf
+    - contrato_proveedor.pdf
 
 ## 📁 2. Producción
 - Produccion
