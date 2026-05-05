@@ -1,26 +1,41 @@
--Contabilidad
+- Contabilidad
+  - Gastos
+    - Suministros: agua, luz, gas, teléfono, internet
+    - Contratos de alquiler
+      
+  - Ingresos
+    - Cobros de clientes
+    - Tranferencias
+    - Ingresos
+
+- Compras
+  - Proveedores
+    - Fichas proveedores
+    - Pedidos a proveedores
+    - Catálogo productos
   
-  -Gastos
-    -Suministros: agua, luz, gas, teléfono, internet
-    -Contratos de alquiler
+- Ventas
+  - Proveedores
+    - Facturas de proveedores
 
-  -Ingresos
-    -Cobros de clientes
-    -Tranferencias
-    -Ingresos
-
-
--Compras
-    -Fichas proveedores
-    -Pedidos a proveedores
-
--Ventas
-    -Facturas de proveedores 
-    -Pedidos clientes
-    -Albaranes clientes
+  - Clientes
+    - Pedidos clientes
+    - Albaranes clientes
+    - Facturas clientes
+    - Devoluciones
 
 -RRHH
-  -Altas y bajas en SS
-  -Contratos de trabajo vigentes
+  - Selección personal
+    -CV
+    -Entrevistas
+    -Pruebas
+    
+  - Seguridad Social
+    -Altas y bajas en SS
+    -Modificación de datos
+
+  - Contratos de trabajo
+    -Contratos pendiente firma
+    -Contratos vigentes
 
     
