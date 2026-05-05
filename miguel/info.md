@@ -1,7 +1,8 @@
 # Nombre emprea: canabis.sl
 
-## drecripción: una empresa dedicada al cultivo, desarrollo y comercialización de productos derivados del cannabis dentro de un marco legal y regulado. Su objetivo es ofrecer soluciones tanto para uso medicinal como para bienestar, apostando por la innovación, la calidad y la sostenibilidad.
-### tipo de documentación:
+# drecripción: 
+una empresa dedicada al cultivo, desarrollo y comercialización de productos derivados del cannabis dentro de un marco legal y regulado. Su objetivo es ofrecer soluciones tanto para uso medicinal como para bienestar, apostando por la innovación, la calidad y la sostenibilidad.
+# tipo de documentación:
 -  Documentos legales y regulatorios
 
 Son imprescindibles para funcionar dentro de la ley:
