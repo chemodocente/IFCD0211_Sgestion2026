@@ -32,3 +32,10 @@ Además, programas como Adobe Photoshop o Adobe Lightroom usan XMP para guardar 
 ---
 
 > 📌 **Recuerda:** en sistemas como **OpenKM** o **GitHub**, los metadatos son la clave para encontrar, auditar y gestionar la información de forma eficiente. Un documento sin metadatos es como un archivador sin etiquetas.
+> ¿ Que es el RDF?
+>
+>  Es un estándar creado por el World Wide Web Consortium para representar información en la web de forma estructurada y comprensible para máquinas.
+
+¿ Para que sirve el RDF?
+
+sirve para organizar y conectar información de forma que las computadoras puedan entenderla, no solo leerla.
