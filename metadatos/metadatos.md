@@ -20,6 +20,11 @@ Aunque no seamos conscientes de ello, los metadatos nos rodean constantemente. C
 
 Para que los metadatos sean útiles más allá de un sistema concreto, es necesario que sigan **estándares reconocidos internacionalmente**. Uno de los más conocidos es el esquema **Dublin Core**, que define 15 elementos básicos para describir cualquier recurso digital: título, autor, tema, descripción, fecha, formato, entre otros. Otro estándar ampliamente usado es **EXIF** para imágenes digitales, o **ID3** para archivos de audio MP3. En el ámbito de la gestión documental empresarial destacan estándares como **MoReq** (Modelo de Requisitos para la Gestión de Documentos Electrónicos) o las normas de la serie **ISO 15489**, que regulan cómo deben gestionarse los registros en las organizaciones. Conocer estos estándares es esencial para cualquier profesional que trabaje con sistemas de información.
 
+## Dublin Core 
+Es el equivalente a la ficha técnica universal de un objeto digital. Se trata de un estándar de 15 etiquetas básicas (como título, autor, fecha o idioma) que se usan para describir archivos en internet para que cualquier sistema del mundo pueda entender qué son y encontrarlos fácilmente.
+
+Es como el "lenguaje común" para las bibliotecas y archivos digitales: no importa si el archivo es un vídeo o un PDF, si tiene estas etiquetas puestas, los buscadores sabrán exactamente quién lo hizo y de qué trata sin tener que abrirlo.
+
 ---
 
 > 📌 **Recuerda:** en sistemas como **OpenKM** o **GitHub**, los metadatos son la clave para encontrar, auditar y gestionar la información de forma eficiente. Un documento sin metadatos es como un archivador sin etiquetas.
