@@ -1,4 +1,4 @@
-- nivel 1: La fruteria de alejandro
-   - nivel 2:  Descripcion de la empresa.
-   - nivel 3:  Listado de tipos de documentos.
+- nivel 1: fruteria_alejandro
+   - nivel 2: empresa_decripcion
+   - nivel 3: tipo_documentos
      
