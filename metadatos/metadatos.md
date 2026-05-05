@@ -39,3 +39,12 @@ Además, programas como Adobe Photoshop o Adobe Lightroom usan XMP para guardar 
 ¿ Para que sirve el RDF?
 
 sirve para organizar y conectar información de forma que las computadoras puedan entenderla, no solo leerla.
+
+## IPTC
+
+Los metadatos IPTC son un estándar internacional de etiquetado incrustado en archivos digitales (imágenes, video) que incluye información descriptiva como autor, derechos de autor (copyright), palabras clave y ubicación
+Permiten añadir datos descriptivos a una imagen, lo que facilita:
+
+- Organización y búsqueda en archivos grandes
+- Identificación de autoría y derechos
+- Uso en agencias de noticias, bancos de imágenes y prensa
