@@ -1,54 +1,29 @@
-# 🌿 Empresa Cannabis – Taxonomía 
+# 🌿 Empresa Cannabis – Taxonomía documental
 
 ## 📁 1. Legal
-
-- /Legal
-- /Licencias
+/Legal
+  /Licencias
     licencia_cultivo.pdf
-- /Contratos
+  /Contratos
     contrato_proveedor.pdf
 
-
 ## 📁 2. Producción
-
-- /Produccion
-- /Cultivo
+/Produccion
+  /Cultivo
     registro_riego.xlsx
-- /Laboratorio
+  /Laboratorio
     analisis_lote_01.pdf
 
-
 ## 📁 3. Finanzas
-
-- /Finanzas
-- /Facturas
+/Finanzas
+  /Facturas
     factura_001.pdf
-- /Impuestos
+  /Impuestos
     iva_2026.pdf
 
-
 ## 📁 4. Logística
-
-- /Logistica
-- /Inventario
+/Logistica
+  /Inventario
     stock.xlsx
-- /Envios
+  /Envios
     envio_lote_01.pdf
-
-
-## 📁 5. RRHH
-
-- /RRHH
-- /Contratos
-    contrato_empleado.pdf
-- /Nominas
-    nomina_enero.pdf
-
-
-## 📁 6. Comercial
-
-- /Comercial
-- /Clientes
-    ficha_cliente_001.pdf
-/Ventas
-pedido_001.pdf
