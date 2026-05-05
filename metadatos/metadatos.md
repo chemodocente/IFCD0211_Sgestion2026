@@ -25,6 +25,10 @@ Es el equivalente a la ficha técnica universal de un objeto digital. Se trata d
 
 Es como el "lenguaje común" para las bibliotecas y archivos digitales: no importa si el archivo es un vídeo o un PDF, si tiene estas etiquetas puestas, los buscadores sabrán exactamente quién lo hizo y de qué trata sin tener que abrirlo.
 
+## XMP
+Los metadatos XMP (Extensible Metadata Platform), desarrollados por Adobe, son datos ocultos que se guardan dentro de archivos como fotos, videos o documentos para describir su contenido. Incluyen información como el autor, la fecha, el título, palabras clave o derechos de uso, lo que facilita identificar y organizar los archivos.
+
+Además, programas como Adobe Photoshop o Adobe Lightroom usan XMP para guardar ajustes de edición sin modificar el archivo original. Esto permite una edición no destructiva y hace más fácil reutilizar o compartir configuraciones entre distintos archivos.
 ---
 
 > 📌 **Recuerda:** en sistemas como **OpenKM** o **GitHub**, los metadatos son la clave para encontrar, auditar y gestionar la información de forma eficiente. Un documento sin metadatos es como un archivador sin etiquetas.
