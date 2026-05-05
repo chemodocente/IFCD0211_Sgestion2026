@@ -11,44 +11,44 @@
 
 ## 📁 2. Producción
 
-/Produccion
-/Cultivo
-registro_riego.xlsx
-/Laboratorio
-analisis_lote_01.pdf
+- /Produccion
+- /Cultivo
+    registro_riego.xlsx
+- /Laboratorio
+    analisis_lote_01.pdf
 
 
 ## 📁 3. Finanzas
 
-/Finanzas
-/Facturas
-factura_001.pdf
-/Impuestos
-iva_2026.pdf
+- /Finanzas
+- /Facturas
+    factura_001.pdf
+- /Impuestos
+    iva_2026.pdf
 
 
 ## 📁 4. Logística
 
-/Logistica
-/Inventario
-stock.xlsx
-/Envios
-envio_lote_01.pdf
+- /Logistica
+- /Inventario
+    stock.xlsx
+- /Envios
+    envio_lote_01.pdf
 
 
 ## 📁 5. RRHH
 
-/RRHH
-/Contratos
-contrato_empleado.pdf
-/Nominas
-nomina_enero.pdf
+- /RRHH
+- /Contratos
+    contrato_empleado.pdf
+- /Nominas
+    nomina_enero.pdf
 
 
 ## 📁 6. Comercial
 
-/Comercial
-/Clientes
-ficha_cliente_001.pdf
+- /Comercial
+- /Clientes
+    ficha_cliente_001.pdf
 /Ventas
 pedido_001.pdf
