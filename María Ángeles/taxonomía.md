@@ -24,18 +24,22 @@
     - Facturas clientes
     - Devoluciones
 
--RRHH
+- RRHH
   - Selección personal
-    -CV
-    -Entrevistas
-    -Pruebas
-    
-  - Seguridad Social
-    -Altas y bajas en SS
-    -Modificación de datos
+    - CV
+    - Entrevistas
+    - Pruebas
 
+  - Seguridad Social
+    - Altas y bajas en SS
+    - Entrevistas
+    - Pruebas
+ 
   - Contratos de trabajo
-    -Contratos pendiente firma
-    -Contratos vigentes
+    - Contratos pendiente firma
+    - Contratos vigentes
+   
+  
+
 
     
